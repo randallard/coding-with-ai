@@ -16,6 +16,16 @@ A collection of projects and AI-assisted coding sessions from my YouTube channel
 
 ---
 
+## The Plan
+
+
+The plan is to demonstrate successful, high quality, software development using AI.  Accomplishing this is not always straightforward and has taken me quite a while to figure out.  I'd like to share my experience and alleviate the learning curve for others.
+
+
+All the projects demonstrated here are fully open source, developed for fun and shared learning.  I will develop with AI but also concentrate on best practices in software development from the very start.  Contributions to any of the projects are welcome, and I'd love to work with anyone willing to learn together how to best use AI to create high quality, maintainable software.
+
+---
+
 ## Projects
 
 Browse through my AI-assisted coding projects and see how I use AI tools to build applications, solve problems, and learn new technologies.
