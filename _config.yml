@@ -1,8 +1,44 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: Coding with AI
+description: A collection of AI-assisted coding projects from my YouTube channel
+baseurl: "/coding-with-ai" # the subpath of your site, e.g. /blog
+url: "https://randallard.github.io" # the base hostname & protocol
 
-url: https://just-the-docs.github.io
+# Theme settings
+remote_theme: just-the-docs/just-the-docs
 
+# Color scheme
+color_scheme: light
+
+# Enable or disable the site search
+search_enabled: true
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Aux links for the upper right navigation
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "View on GitHub":
+    - "//github.com/randallard/coding-with-ai"
+  "YouTube Channel":
+    - "https://youtube.com/c/YOUR_CHANNEL"
+
+# Makes Aux links open in a new tab
+aux_links_new_tab: true
+
+# Sort order for navigation links
+nav_sort: case_sensitive # default, equivalent to nil
+# alternatively you can sort alphabetically: alphabetical
+
+# Collections (optional)
+# collections:
+#   projects:
+#     permalink: "/:collection/:path/"
+#     output: true
+
+# Enable or disable back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Custom styling (optional)
+# By default, the styles from the theme will be used. 
+# You can add custom styles in the assets/css/custom.scss file.
