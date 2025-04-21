@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 2
 description: A game of cooperation or betrayal
 technologies: Markdown
-permalink: /projects/coding-with-ai/
+permalink: /projects/prisoners-dilemma/
 has_children: false
 ---
 
