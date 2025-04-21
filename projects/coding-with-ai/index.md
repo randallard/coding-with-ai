@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Coding with AI
-nav_order: 1
+nav_order: 2
 description: Sharing our experience learning to code with AI
 technologies: Markdown
 permalink: /projects/coding-with-ai/
