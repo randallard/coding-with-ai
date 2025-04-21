@@ -1,14 +1,15 @@
 ---
 layout: default
 title: Prisoner's Dilemma 
+parent: Projects
 nav_order: 2
 description: A game of cooperation or betrayal
 technologies: Markdown
 permalink: /projects/coding-with-ai/
-has_children: true
+has_children: false
 ---
 
-# Prisoner's Dilemma (T3)
+# Prisoner's Dilemma
 
 In this project, we build the Prisoner's Dilemma Game
 
