@@ -12,7 +12,7 @@ has_children: false
 # CSV Add County FP
 
 In this project, we build a Rust CLI to update a csv file with county code and county fp by zip
-[https://github.com/randallard/csv-add-county-fp(https://github.com/randallard/csv-add-county-fp)
+[https://github.com/randallard/csv-add-county-fp](https://github.com/randallard/csv-add-county-fp)
 
 ## AI-Assisted Development Process
 
