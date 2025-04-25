@@ -25,3 +25,4 @@ This project was created with AI assistance through multiple conversation sessio
 5. [Untitled (Create a readme)](https://claude.ai/share/07572fab-0841-403e-8119-2cda31d75090)
 6. [Update FIPS code to 3-digit county](https://claude.ai/share/fb89b367-ba7c-4651-8f02-1bd242334f7c)
 7. [Pushing Local Git Repo to Remote GitHub](https://claude.ai/share/82fb276c-87e0-411b-9d1c-feb7ff219115)
+8. [Adding County Names to CSV Data](https://claude.ai/share/bf5a22a8-11a8-411e-af37-e2fd817bfe54)
