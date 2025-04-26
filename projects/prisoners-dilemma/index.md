@@ -25,3 +25,4 @@ This project was created with AI assistance through multiple conversation sessio
 4. [Prisoner's Dilemma App Development Journal](https://claude.ai/share/c116d168-ca79-4375-8404-d395af2861f2)
 5. [Fixing Jekyll Build Error in Journal Template](https://claude.ai/share/55b93fab-d9c8-4b60-8e6b-6e9609bb5043)
 6. [Prisoner's Dilemma Game App - Initial Planning](https://claude.ai/share/47991b9d-e4ae-49b8-8f31-0d593a2a2e1f)
+7. [Prisoner's Dilemma App Development Plan](https://claude.ai/share/0bae695b-f900-413b-8df7-aa65ea291533)
