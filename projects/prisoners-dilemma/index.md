@@ -12,8 +12,8 @@ has_children: false
 # Prisoner's Dilemma
 
 In this project, we build the Prisoner's Dilemma Game
-- [Documentation Site] (https://randallard.github.io/prisoners-dilemma-docs/)
-- [Documentation Repo] (https://github.com/randallard/prisoners-dilemma-docs)
+- [Documentation Site](https://randallard.github.io/prisoners-dilemma-docs/)
+- [Documentation Repo](https://github.com/randallard/prisoners-dilemma-docs)
 
 ## AI-Assisted Development Process
 
