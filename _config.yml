@@ -7,7 +7,7 @@ url: "https://randallard.github.io" # the base hostname & protocol
 remote_theme: just-the-docs/just-the-docs
 
 # Color scheme
-color_scheme: light
+color_scheme: dark
 
 # Enable or disable the site search
 search_enabled: true
