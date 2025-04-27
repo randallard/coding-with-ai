@@ -34,3 +34,4 @@ Let's build an app to play prisoner's dilemma with friends.  I want to go throug
 Not sure I like the prompt I'm using but... too lazy to change it
 
 8. [Building a Prisoner's Dilemma App with Web Components and TDD](https://claude.ai/share/15028e65-d6ce-46d6-b63f-9b4cba669dc4)
+9. [Prisoner's Dilemma Game User Stories](https://claude.ai/share/4985a68f-33ee-46c4-bd55-0594ebe40e3f)
