@@ -57,5 +57,13 @@ This next bit was a frustrating run trying to fix github page build, a great exa
 21. [Troubleshoot GitHub Pages Build Locally](https://claude.ai/share/d24d1403-965a-40d9-a387-ebac1282eadc)
 22. [Troubleshooting Just the Docs GitHub Pages Build](https://claude.ai/share/24ef7dc1-e203-4c26-85e4-0398063bb148)
 23. [Troubleshooting GitHub Page Build Issues](https://claude.ai/share/672fc2cd-da71-4275-b841-f79cbeec1e48)
+24. [Prisoner's Dilemma Game Setup with Tailwind CSS](https://claude.ai/share/2e5fef72-5722-4b3b-8a5c-81a13610d9a6)
+25. [Fixing "Cannot Find Name 'it'" Error in PlayerForm Test](https://claude.ai/share/9c8a1304-8795-4416-a79e-4d6e4ced0e53)
+
+I did scrub the main instruction and just have them blank now - that last chat was super annoying and had been getting "let's ignore your question about this error and focus on development"
+
+26. [Troubleshooting npm script error in Prisoner's Dilemma app](https://claude.ai/share/2a9a7e89-7525-404a-a2d5-e6bafef72f76)
+
+Another key takeaway that comes to mind now is that I'm definitely not using all of what they suggest.  Especially at the end of a chat, I'm usually picking and choosing or moving on to the next chat with a refined approach.
 
     
