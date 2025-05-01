@@ -66,4 +66,9 @@ I did scrub the main instruction and just have them blank now - that last chat w
 
 Another key takeaway that comes to mind now is that I'm definitely not using all of what they suggest.  Especially at the end of a chat, I'm usually picking and choosing or moving on to the next chat with a refined approach.
 
+27. [Fixing Vitest Configuration Error](https://claude.ai/share/bf966457-2544-4048-a8fb-b5ac862513a5)
+28. [Resolving Testing Conflics in Player Registration Component](https://claude.ai/share/536647ca-c57d-4791-9d64-8bbe5ab0ec20)
+29. [Resolving TypeScript errors in testing frameworks](https://claude.ai/share/9ce37a8a-ff90-4c2d-b173-96f9322e1a42)
+30. [Implementing Player Registration Tests](https://claude.ai/share/88da7c50-852f-48df-a030-7d012d13c6fb)
+31. [Troubleshooting Player Form Tests with Shadow DOM](https://claude.ai/share/cb6bdaf9-f821-416c-90c6-be3e8fe4d06f)
     

@@ -3,7 +3,7 @@ layout: default
 title: Coding with AI YouTube Channel
 parent: Projects
 nav_order: 2
-description: Staring a Successful and Sustainable YouTube Channel
+description: Starting a Successful and Sustainable YouTube Channel
 technologies: Markdown
 permalink: /projects/you-tube-channel/
 has_children: false
