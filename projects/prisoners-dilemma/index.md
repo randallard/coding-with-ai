@@ -71,4 +71,10 @@ Another key takeaway that comes to mind now is that I'm definitely not using all
 29. [Resolving TypeScript errors in testing frameworks](https://claude.ai/share/9ce37a8a-ff90-4c2d-b173-96f9322e1a42)
 30. [Implementing Player Registration Tests](https://claude.ai/share/88da7c50-852f-48df-a030-7d012d13c6fb)
 31. [Troubleshooting Player Form Tests with Shadow DOM](https://claude.ai/share/cb6bdaf9-f821-416c-90c6-be3e8fe4d06f)
+32. [Resolving Local Deployment Issues](https://claude.ai/share/81dd6130-a93d-4c28-b13e-80b0119ca823)
+33. [Prisoner's Dilemma Game Development Progress](https://claude.ai/share/79bf5542-d3c4-4eac-a600-6123be684b22)
+34. [Troubleshooting Tailwind CSS Integration](https://claude.ai/share/16749964-09b6-43c9-a4dd-0abbd52c47d5)
+35. [Fixing TypeScript Configuration Errors](https://claude.ai/share/970704bc-f412-46aa-b2e1-39f1687fc93c)
+36. [Fixing Failing Test After Refactoring](https://claude.ai/share/3411699c-dfd9-4652-a47b-907b59b657bb)
+37. [Collapsible Markdown Sections](https://claude.ai/share/87cdeac1-1ff0-4740-8d26-003a7ac6a83e)
     
