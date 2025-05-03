@@ -77,4 +77,12 @@ Another key takeaway that comes to mind now is that I'm definitely not using all
 35. [Fixing TypeScript Configuration Errors](https://claude.ai/share/970704bc-f412-46aa-b2e1-39f1687fc93c)
 36. [Fixing Failing Test After Refactoring](https://claude.ai/share/3411699c-dfd9-4652-a47b-907b59b657bb)
 37. [Collapsible Markdown Sections](https://claude.ai/share/87cdeac1-1ff0-4740-8d26-003a7ac6a83e)
+38. [Enabling Enter Key Form Submission](https://claude.ai/share/dd2d6464-f6c2-4cbc-8772-b19a2541f6c4)
+39. [Refactor Player Registration and Test Local Storage](https://claude.ai/share/65139411-87ac-4d7b-97d5-5ed1f1991c1b)
+
+This debugging took quite a while - ugh - but we got through it and hopefully set ourselves up to bypass this issue in the future
+
+40. [Debugging Test Timeouts in Game App](https://claude.ai/share/83d8bacf-67c3-4f37-a058-94a53fb33a2b)
+41. [Troubleshooting a Failing Test](https://claude.ai/share/d1d30a59-7572-49b8-9836-2bd71adb83a8)
+42. [Resolving TypeScript Visibility Issues in Test Suite](https://claude.ai/share/5946f273-5347-4216-ac27-ec39bbd26833)
     
